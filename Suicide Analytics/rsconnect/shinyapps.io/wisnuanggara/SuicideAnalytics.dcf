@@ -1,0 +1,13 @@
+name: SuicideAnalytics
+title: SuicideAnalytics
+username:
+account: wisnuanggara
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5179522
+bundleId: 5279262
+url: https://wisnuanggara.shinyapps.io/SuicideAnalytics/
+when: 1637576068.4755
+lastSyncTime: 1637576068.47551
+asMultiple: FALSE
+asStatic: FALSE
